@@ -1,0 +1,4 @@
+Backend/models/
+Backend/utils/
+Backend/*.pt
+Frontend/SatwikDiet/server/keys.js

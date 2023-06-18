@@ -1,0 +1,6 @@
+train: /content/drive/MyDrive/BE_project_food/train
+val: /content/drive/MyDrive/BE_project_food/val
+
+nc: 29
+names: ['Gulab Jamun','Batata Bhaji','Puri','Rice','Daal Tadaka','Pav Bhaji','Chapati','Sambhar','Coconut Chatani','Idli','Daal Makhani','Chana Masala','Kadhi pakoda','Bhindi Masala','Palak Paneer','Udid Papad','Koshimbir','Jalebi','Paneer','Aloo Gobi','Paneer Butter Masala','Shrikhand','Biryani','Chicken Tikka','Makki di Roti sarson da sag','Pohe','Chicken Tikka Masala','Gajar Halwa','Samosa']
+
